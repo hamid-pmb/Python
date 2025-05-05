@@ -1,6 +1,6 @@
 Simple Frontend/Backend sample
 ### Steps to Run:
-1. Download the project from git.
+1. Download the project from Git.
 2. Install Anaconda or python and Flask (if not already installed by running `pip install flask` in your terminal).
 3. Start the backend server by running `python backend.py` in your terminal.
 4. Open `frontend.html` in your browser.
